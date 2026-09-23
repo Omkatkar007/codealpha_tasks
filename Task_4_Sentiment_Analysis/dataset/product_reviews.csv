@@ -1,0 +1,1201 @@
+review_id,category,product,rating,review_text,sentiment
+REV-10000,Peripherals,gaming mouse,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10001,Audio,bluetooth speaker,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10002,Office,laptop stand,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10003,Peripherals,mechanical keyboard,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10004,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10005,Video,webcam,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10006,Peripherals,mechanical keyboard,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10007,Peripherals,mechanical keyboard,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10008,Wearables,smart watch,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10009,Video,webcam,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10010,Peripherals,gaming mouse,1,Terrible experience with this gaming mouse. Stopped working after just two weeks of normal use.,Negative
+REV-10011,Office,laptop stand,3,"The laptop stand is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10012,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10013,Wearables,smart watch,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10014,Peripherals,mechanical keyboard,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10015,Audio,bluetooth speaker,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10016,Peripherals,mechanical keyboard,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10017,Video,webcam,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10018,Peripherals,gaming mouse,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10019,Video,webcam,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10020,Power,portable charger,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10021,Audio,wireless earbuds,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10022,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10023,Peripherals,mechanical keyboard,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10024,Audio,wireless earbuds,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10025,Peripherals,gaming mouse,4,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10026,Power,portable charger,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10027,Office,laptop stand,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10028,Peripherals,gaming mouse,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10029,Peripherals,gaming mouse,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10030,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10031,Office,laptop stand,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10032,Office,laptop stand,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10033,Audio,bluetooth speaker,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10034,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10035,Audio,wireless earbuds,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10036,Wearables,smart watch,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10037,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10038,Video,webcam,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10039,Office,laptop stand,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10040,Office,laptop stand,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10041,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10042,Audio,wireless earbuds,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10043,Peripherals,mechanical keyboard,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10044,Wearables,smart watch,5,Absolutely love this smart watch! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10045,Audio,wireless earbuds,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10046,Peripherals,mechanical keyboard,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10047,Power,portable charger,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10048,Office,laptop stand,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10049,Video,webcam,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10050,Audio,wireless earbuds,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10051,Video,webcam,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10052,Audio,wireless earbuds,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10053,Audio,wireless earbuds,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10054,Audio,bluetooth speaker,4,Absolutely love this bluetooth speaker! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10055,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10056,Power,portable charger,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10057,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10058,Power,portable charger,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10059,Office,laptop stand,1,Terrible experience with this laptop stand. Stopped working after just two weeks of normal use.,Negative
+REV-10060,Office,laptop stand,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10061,Peripherals,mechanical keyboard,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10062,Wearables,smart watch,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10063,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10064,Peripherals,gaming mouse,1,Terrible experience with this gaming mouse. Stopped working after just two weeks of normal use.,Negative
+REV-10065,Audio,wireless earbuds,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10066,Wearables,smart watch,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10067,Power,portable charger,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10068,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10069,Audio,bluetooth speaker,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10070,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10071,Peripherals,mechanical keyboard,1,Terrible experience with this mechanical keyboard. Stopped working after just two weeks of normal use.,Negative
+REV-10072,Office,laptop stand,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10073,Peripherals,mechanical keyboard,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10074,Audio,wireless earbuds,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10075,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10076,Office,laptop stand,3,"The laptop stand is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10077,Peripherals,mechanical keyboard,3,"The mechanical keyboard is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10078,Video,webcam,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10079,Power,portable charger,1,Terrible experience with this portable charger. Stopped working after just two weeks of normal use.,Negative
+REV-10080,Power,portable charger,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10081,Video,webcam,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10082,Office,laptop stand,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10083,Audio,bluetooth speaker,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10084,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10085,Peripherals,mechanical keyboard,4,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10086,Peripherals,mechanical keyboard,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10087,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10088,Audio,bluetooth speaker,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10089,Peripherals,mechanical keyboard,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10090,Power,portable charger,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10091,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10092,Power,portable charger,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10093,Video,webcam,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10094,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10095,Office,laptop stand,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10096,Audio,bluetooth speaker,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10097,Audio,wireless earbuds,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10098,Wearables,smart watch,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10099,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10100,Peripherals,mechanical keyboard,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10101,Wearables,smart watch,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10102,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10103,Wearables,smart watch,1,Terrible experience with this smart watch. Stopped working after just two weeks of normal use.,Negative
+REV-10104,Video,webcam,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10105,Audio,wireless earbuds,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10106,Audio,bluetooth speaker,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10107,Peripherals,mechanical keyboard,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10108,Peripherals,mechanical keyboard,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10109,Video,webcam,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10110,Peripherals,mechanical keyboard,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10111,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10112,Audio,wireless earbuds,3,"The wireless earbuds is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10113,Wearables,smart watch,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10114,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10115,Audio,bluetooth speaker,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10116,Peripherals,gaming mouse,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10117,Video,webcam,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10118,Peripherals,mechanical keyboard,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10119,Audio,bluetooth speaker,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10120,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10121,Peripherals,mechanical keyboard,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10122,Power,portable charger,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10123,Video,webcam,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10124,Wearables,smart watch,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10125,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10126,Audio,wireless earbuds,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10127,Power,portable charger,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10128,Power,portable charger,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10129,Power,portable charger,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10130,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10131,Audio,bluetooth speaker,3,"The bluetooth speaker is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10132,Audio,wireless earbuds,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10133,Peripherals,mechanical keyboard,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10134,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10135,Audio,wireless earbuds,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10136,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10137,Wearables,smart watch,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10138,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10139,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10140,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10141,Audio,wireless earbuds,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10142,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10143,Video,webcam,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10144,Audio,wireless earbuds,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10145,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10146,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10147,Office,laptop stand,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10148,Audio,wireless earbuds,1,Terrible experience with this wireless earbuds. Stopped working after just two weeks of normal use.,Negative
+REV-10149,Video,webcam,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10150,Office,laptop stand,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10151,Office,laptop stand,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10152,Office,laptop stand,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10153,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10154,Peripherals,gaming mouse,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10155,Peripherals,gaming mouse,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10156,Peripherals,mechanical keyboard,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10157,Peripherals,mechanical keyboard,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10158,Audio,bluetooth speaker,5,Absolutely love this bluetooth speaker! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10159,Wearables,smart watch,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10160,Office,laptop stand,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10161,Audio,wireless earbuds,2,Terrible experience with this wireless earbuds. Stopped working after just two weeks of normal use.,Negative
+REV-10162,Audio,wireless earbuds,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10163,Video,webcam,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10164,Audio,bluetooth speaker,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10165,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10166,Audio,bluetooth speaker,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10167,Peripherals,mechanical keyboard,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10168,Audio,wireless earbuds,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10169,Video,webcam,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10170,Power,portable charger,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10171,Peripherals,mechanical keyboard,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10172,Audio,bluetooth speaker,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10173,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10174,Wearables,smart watch,5,Absolutely love this smart watch! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10175,Peripherals,gaming mouse,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10176,Power,portable charger,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10177,Peripherals,mechanical keyboard,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10178,Peripherals,mechanical keyboard,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10179,Wearables,smart watch,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10180,Peripherals,mechanical keyboard,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10181,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10182,Peripherals,mechanical keyboard,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10183,Audio,bluetooth speaker,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10184,Office,laptop stand,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10185,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10186,Office,laptop stand,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10187,Video,webcam,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10188,Audio,bluetooth speaker,3,"The bluetooth speaker is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10189,Video,webcam,2,Terrible experience with this webcam. Stopped working after just two weeks of normal use.,Negative
+REV-10190,Wearables,smart watch,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10191,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10192,Peripherals,gaming mouse,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10193,Audio,bluetooth speaker,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10194,Audio,bluetooth speaker,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10195,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10196,Audio,bluetooth speaker,5,Absolutely love this bluetooth speaker! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10197,Power,portable charger,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10198,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10199,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10200,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10201,Power,portable charger,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10202,Audio,bluetooth speaker,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10203,Office,laptop stand,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10204,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10205,Peripherals,gaming mouse,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10206,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10207,Video,webcam,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10208,Audio,wireless earbuds,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10209,Audio,wireless earbuds,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10210,Audio,bluetooth speaker,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10211,Video,webcam,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10212,Office,laptop stand,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10213,Peripherals,gaming mouse,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10214,Power,portable charger,3,"The portable charger is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10215,Office,laptop stand,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10216,Wearables,smart watch,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10217,Office,laptop stand,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10218,Audio,bluetooth speaker,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10219,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10220,Video,webcam,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10221,Audio,wireless earbuds,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10222,Video,webcam,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10223,Wearables,smart watch,1,Terrible experience with this smart watch. Stopped working after just two weeks of normal use.,Negative
+REV-10224,Peripherals,mechanical keyboard,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10225,Video,webcam,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10226,Video,webcam,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10227,Office,laptop stand,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10228,Peripherals,gaming mouse,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10229,Wearables,smart watch,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10230,Power,portable charger,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10231,Peripherals,gaming mouse,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10232,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10233,Audio,wireless earbuds,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10234,Audio,wireless earbuds,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10235,Video,webcam,3,"The webcam is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10236,Peripherals,mechanical keyboard,5,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10237,Peripherals,mechanical keyboard,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10238,Office,laptop stand,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10239,Audio,wireless earbuds,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10240,Video,webcam,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10241,Video,webcam,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10242,Audio,wireless earbuds,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10243,Audio,bluetooth speaker,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10244,Peripherals,mechanical keyboard,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10245,Video,webcam,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10246,Video,webcam,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10247,Wearables,smart watch,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10248,Wearables,smart watch,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10249,Peripherals,mechanical keyboard,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10250,Video,webcam,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10251,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10252,Video,webcam,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10253,Wearables,smart watch,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10254,Peripherals,mechanical keyboard,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10255,Audio,wireless earbuds,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10256,Peripherals,gaming mouse,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10257,Video,webcam,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10258,Video,webcam,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10259,Peripherals,mechanical keyboard,5,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10260,Video,webcam,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10261,Audio,wireless earbuds,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10262,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10263,Wearables,smart watch,2,Terrible experience with this smart watch. Stopped working after just two weeks of normal use.,Negative
+REV-10264,Audio,wireless earbuds,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10265,Power,portable charger,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10266,Audio,wireless earbuds,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10267,Audio,wireless earbuds,5,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10268,Wearables,smart watch,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10269,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10270,Office,laptop stand,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10271,Peripherals,gaming mouse,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10272,Video,webcam,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10273,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10274,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10275,Audio,bluetooth speaker,1,Terrible experience with this bluetooth speaker. Stopped working after just two weeks of normal use.,Negative
+REV-10276,Audio,bluetooth speaker,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10277,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10278,Audio,bluetooth speaker,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10279,Office,laptop stand,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10280,Peripherals,mechanical keyboard,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10281,Peripherals,mechanical keyboard,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10282,Video,webcam,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10283,Office,laptop stand,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10284,Wearables,smart watch,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10285,Power,portable charger,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10286,Power,portable charger,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10287,Power,portable charger,3,"The portable charger is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10288,Peripherals,mechanical keyboard,5,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10289,Audio,bluetooth speaker,5,Absolutely love this bluetooth speaker! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10290,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10291,Video,webcam,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10292,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10293,Audio,bluetooth speaker,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10294,Peripherals,mechanical keyboard,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10295,Peripherals,gaming mouse,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10296,Wearables,smart watch,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10297,Audio,wireless earbuds,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10298,Peripherals,mechanical keyboard,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10299,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10300,Audio,wireless earbuds,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10301,Peripherals,mechanical keyboard,4,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10302,Peripherals,mechanical keyboard,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10303,Peripherals,mechanical keyboard,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10304,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10305,Office,laptop stand,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10306,Audio,bluetooth speaker,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10307,Video,webcam,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10308,Video,webcam,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10309,Wearables,smart watch,5,Absolutely love this smart watch! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10310,Video,webcam,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10311,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10312,Wearables,smart watch,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10313,Peripherals,gaming mouse,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10314,Power,portable charger,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10315,Peripherals,gaming mouse,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10316,Power,portable charger,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10317,Office,laptop stand,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10318,Power,portable charger,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10319,Power,portable charger,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10320,Peripherals,mechanical keyboard,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10321,Video,webcam,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10322,Wearables,smart watch,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10323,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10324,Wearables,smart watch,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10325,Office,laptop stand,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10326,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10327,Power,portable charger,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10328,Audio,bluetooth speaker,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10329,Peripherals,mechanical keyboard,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10330,Office,laptop stand,1,Terrible experience with this laptop stand. Stopped working after just two weeks of normal use.,Negative
+REV-10331,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10332,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10333,Video,webcam,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10334,Wearables,smart watch,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10335,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10336,Wearables,smart watch,3,"The smart watch is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10337,Video,webcam,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10338,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10339,Office,laptop stand,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10340,Audio,bluetooth speaker,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10341,Wearables,smart watch,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10342,Video,webcam,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10343,Video,webcam,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10344,Audio,bluetooth speaker,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10345,Audio,bluetooth speaker,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10346,Peripherals,mechanical keyboard,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10347,Power,portable charger,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10348,Peripherals,gaming mouse,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10349,Video,webcam,3,"The webcam is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10350,Wearables,smart watch,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10351,Peripherals,mechanical keyboard,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10352,Office,laptop stand,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10353,Audio,wireless earbuds,5,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10354,Audio,bluetooth speaker,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10355,Audio,wireless earbuds,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10356,Peripherals,mechanical keyboard,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10357,Video,webcam,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10358,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10359,Audio,wireless earbuds,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10360,Peripherals,mechanical keyboard,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10361,Peripherals,gaming mouse,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10362,Power,portable charger,2,Terrible experience with this portable charger. Stopped working after just two weeks of normal use.,Negative
+REV-10363,Peripherals,mechanical keyboard,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10364,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10365,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10366,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10367,Office,laptop stand,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10368,Audio,bluetooth speaker,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10369,Office,laptop stand,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10370,Video,webcam,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10371,Peripherals,mechanical keyboard,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10372,Office,laptop stand,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10373,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10374,Video,webcam,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10375,Audio,bluetooth speaker,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10376,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10377,Office,laptop stand,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10378,Power,portable charger,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10379,Audio,bluetooth speaker,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10380,Peripherals,mechanical keyboard,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10381,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10382,Peripherals,gaming mouse,4,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10383,Office,laptop stand,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10384,Peripherals,mechanical keyboard,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10385,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10386,Audio,wireless earbuds,5,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10387,Peripherals,mechanical keyboard,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10388,Office,laptop stand,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10389,Power,portable charger,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10390,Wearables,smart watch,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10391,Power,portable charger,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10392,Office,laptop stand,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10393,Audio,wireless earbuds,5,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10394,Power,portable charger,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10395,Peripherals,gaming mouse,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10396,Audio,wireless earbuds,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10397,Wearables,smart watch,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10398,Power,portable charger,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10399,Peripherals,gaming mouse,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10400,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10401,Peripherals,mechanical keyboard,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10402,Peripherals,mechanical keyboard,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10403,Audio,bluetooth speaker,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10404,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10405,Audio,bluetooth speaker,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10406,Peripherals,mechanical keyboard,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10407,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10408,Audio,bluetooth speaker,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10409,Wearables,smart watch,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10410,Video,webcam,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10411,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10412,Office,laptop stand,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10413,Peripherals,gaming mouse,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10414,Peripherals,gaming mouse,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10415,Office,laptop stand,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10416,Office,laptop stand,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10417,Peripherals,mechanical keyboard,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10418,Audio,bluetooth speaker,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10419,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10420,Peripherals,gaming mouse,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10421,Office,laptop stand,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10422,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10423,Peripherals,mechanical keyboard,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10424,Peripherals,mechanical keyboard,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10425,Office,laptop stand,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10426,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10427,Office,laptop stand,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10428,Audio,bluetooth speaker,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10429,Audio,bluetooth speaker,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10430,Video,webcam,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10431,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10432,Audio,bluetooth speaker,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10433,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10434,Peripherals,mechanical keyboard,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10435,Video,webcam,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10436,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10437,Power,portable charger,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10438,Audio,wireless earbuds,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10439,Peripherals,mechanical keyboard,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10440,Audio,bluetooth speaker,5,Absolutely love this bluetooth speaker! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10441,Peripherals,mechanical keyboard,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10442,Power,portable charger,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10443,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10444,Video,webcam,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10445,Power,portable charger,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10446,Office,laptop stand,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10447,Video,webcam,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10448,Peripherals,mechanical keyboard,4,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10449,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10450,Audio,bluetooth speaker,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10451,Power,portable charger,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10452,Video,webcam,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10453,Video,webcam,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10454,Peripherals,mechanical keyboard,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10455,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10456,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10457,Peripherals,mechanical keyboard,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10458,Peripherals,mechanical keyboard,4,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10459,Audio,bluetooth speaker,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10460,Video,webcam,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10461,Video,webcam,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10462,Wearables,smart watch,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10463,Office,laptop stand,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10464,Video,webcam,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10465,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10466,Wearables,smart watch,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10467,Video,webcam,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10468,Peripherals,gaming mouse,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10469,Video,webcam,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10470,Peripherals,gaming mouse,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10471,Wearables,smart watch,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10472,Audio,wireless earbuds,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10473,Video,webcam,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10474,Audio,bluetooth speaker,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10475,Peripherals,mechanical keyboard,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10476,Office,laptop stand,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10477,Office,laptop stand,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10478,Office,laptop stand,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10479,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10480,Audio,wireless earbuds,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10481,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10482,Video,webcam,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10483,Power,portable charger,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10484,Audio,bluetooth speaker,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10485,Wearables,smart watch,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10486,Office,laptop stand,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10487,Audio,bluetooth speaker,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10488,Office,laptop stand,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10489,Peripherals,gaming mouse,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10490,Video,webcam,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10491,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10492,Peripherals,gaming mouse,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10493,Audio,wireless earbuds,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10494,Video,webcam,3,"The webcam is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10495,Audio,wireless earbuds,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10496,Peripherals,gaming mouse,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10497,Power,portable charger,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10498,Office,laptop stand,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10499,Wearables,smart watch,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10500,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10501,Audio,wireless earbuds,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10502,Audio,wireless earbuds,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10503,Audio,bluetooth speaker,5,Absolutely love this bluetooth speaker! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10504,Peripherals,mechanical keyboard,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10505,Peripherals,mechanical keyboard,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10506,Wearables,smart watch,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10507,Audio,bluetooth speaker,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10508,Video,webcam,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10509,Audio,wireless earbuds,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10510,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10511,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10512,Audio,wireless earbuds,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10513,Office,laptop stand,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10514,Peripherals,gaming mouse,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10515,Wearables,smart watch,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10516,Audio,bluetooth speaker,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10517,Video,webcam,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10518,Audio,wireless earbuds,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10519,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10520,Peripherals,gaming mouse,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10521,Office,laptop stand,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10522,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10523,Power,portable charger,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10524,Video,webcam,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10525,Power,portable charger,5,Absolutely love this portable charger! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10526,Audio,wireless earbuds,1,Terrible experience with this wireless earbuds. Stopped working after just two weeks of normal use.,Negative
+REV-10527,Peripherals,gaming mouse,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10528,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10529,Office,laptop stand,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10530,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10531,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10532,Audio,wireless earbuds,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10533,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10534,Power,portable charger,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10535,Office,laptop stand,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10536,Video,webcam,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10537,Audio,wireless earbuds,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10538,Wearables,smart watch,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10539,Audio,wireless earbuds,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10540,Peripherals,gaming mouse,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10541,Peripherals,gaming mouse,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10542,Office,laptop stand,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10543,Power,portable charger,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10544,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10545,Peripherals,mechanical keyboard,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10546,Video,webcam,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10547,Video,webcam,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10548,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10549,Wearables,smart watch,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10550,Video,webcam,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10551,Peripherals,gaming mouse,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10552,Audio,wireless earbuds,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10553,Power,portable charger,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10554,Video,webcam,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10555,Wearables,smart watch,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10556,Video,webcam,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10557,Audio,wireless earbuds,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10558,Audio,wireless earbuds,1,Terrible experience with this wireless earbuds. Stopped working after just two weeks of normal use.,Negative
+REV-10559,Audio,bluetooth speaker,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10560,Peripherals,mechanical keyboard,3,"The mechanical keyboard is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10561,Wearables,smart watch,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10562,Wearables,smart watch,5,Absolutely love this smart watch! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10563,Wearables,smart watch,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10564,Power,portable charger,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10565,Power,portable charger,3,"The portable charger is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10566,Video,webcam,3,"The webcam is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10567,Video,webcam,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10568,Audio,bluetooth speaker,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10569,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10570,Peripherals,gaming mouse,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10571,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10572,Video,webcam,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10573,Office,laptop stand,4,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10574,Audio,wireless earbuds,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10575,Audio,wireless earbuds,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10576,Office,laptop stand,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10577,Power,portable charger,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10578,Peripherals,mechanical keyboard,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10579,Wearables,smart watch,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10580,Office,laptop stand,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10581,Peripherals,mechanical keyboard,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10582,Audio,bluetooth speaker,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10583,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10584,Peripherals,gaming mouse,1,Terrible experience with this gaming mouse. Stopped working after just two weeks of normal use.,Negative
+REV-10585,Power,portable charger,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10586,Peripherals,mechanical keyboard,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10587,Power,portable charger,2,Terrible experience with this portable charger. Stopped working after just two weeks of normal use.,Negative
+REV-10588,Audio,bluetooth speaker,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10589,Peripherals,gaming mouse,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10590,Video,webcam,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10591,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10592,Audio,bluetooth speaker,5,Absolutely love this bluetooth speaker! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10593,Office,laptop stand,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10594,Peripherals,mechanical keyboard,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10595,Office,laptop stand,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10596,Audio,bluetooth speaker,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10597,Wearables,smart watch,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10598,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10599,Power,portable charger,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10600,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10601,Wearables,smart watch,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10602,Audio,wireless earbuds,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10603,Video,webcam,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10604,Video,webcam,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10605,Office,laptop stand,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10606,Audio,bluetooth speaker,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10607,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10608,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10609,Video,webcam,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10610,Video,webcam,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10611,Peripherals,mechanical keyboard,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10612,Office,laptop stand,4,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10613,Office,laptop stand,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10614,Audio,wireless earbuds,4,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10615,Audio,wireless earbuds,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10616,Power,portable charger,3,"The portable charger is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10617,Peripherals,mechanical keyboard,3,"The mechanical keyboard is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10618,Audio,bluetooth speaker,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10619,Audio,bluetooth speaker,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10620,Video,webcam,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10621,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10622,Office,laptop stand,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10623,Audio,bluetooth speaker,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10624,Video,webcam,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10625,Audio,bluetooth speaker,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10626,Audio,bluetooth speaker,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10627,Audio,bluetooth speaker,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10628,Power,portable charger,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10629,Office,laptop stand,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10630,Audio,bluetooth speaker,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10631,Power,portable charger,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10632,Audio,wireless earbuds,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10633,Video,webcam,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10634,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10635,Audio,wireless earbuds,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10636,Wearables,smart watch,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10637,Peripherals,mechanical keyboard,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10638,Power,portable charger,1,Terrible experience with this portable charger. Stopped working after just two weeks of normal use.,Negative
+REV-10639,Peripherals,mechanical keyboard,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10640,Power,portable charger,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10641,Audio,bluetooth speaker,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10642,Audio,bluetooth speaker,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10643,Audio,bluetooth speaker,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10644,Video,webcam,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10645,Peripherals,gaming mouse,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10646,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10647,Power,portable charger,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10648,Peripherals,mechanical keyboard,2,Terrible experience with this mechanical keyboard. Stopped working after just two weeks of normal use.,Negative
+REV-10649,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10650,Peripherals,mechanical keyboard,2,Terrible experience with this mechanical keyboard. Stopped working after just two weeks of normal use.,Negative
+REV-10651,Peripherals,gaming mouse,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10652,Peripherals,mechanical keyboard,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10653,Audio,bluetooth speaker,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10654,Power,portable charger,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10655,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10656,Audio,wireless earbuds,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10657,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10658,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10659,Office,laptop stand,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10660,Power,portable charger,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10661,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10662,Audio,bluetooth speaker,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10663,Peripherals,gaming mouse,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10664,Video,webcam,2,Terrible experience with this webcam. Stopped working after just two weeks of normal use.,Negative
+REV-10665,Audio,bluetooth speaker,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10666,Audio,bluetooth speaker,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10667,Office,laptop stand,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10668,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10669,Audio,bluetooth speaker,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10670,Peripherals,gaming mouse,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10671,Peripherals,gaming mouse,3,"The gaming mouse is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10672,Power,portable charger,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10673,Power,portable charger,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10674,Audio,wireless earbuds,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10675,Wearables,smart watch,3,"The smart watch is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10676,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10677,Peripherals,gaming mouse,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10678,Audio,wireless earbuds,5,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10679,Video,webcam,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10680,Audio,wireless earbuds,5,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10681,Audio,wireless earbuds,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10682,Peripherals,gaming mouse,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10683,Wearables,smart watch,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10684,Wearables,smart watch,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10685,Video,webcam,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10686,Wearables,smart watch,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10687,Peripherals,mechanical keyboard,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10688,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10689,Audio,bluetooth speaker,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10690,Peripherals,mechanical keyboard,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10691,Power,portable charger,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10692,Office,laptop stand,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10693,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10694,Peripherals,mechanical keyboard,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10695,Peripherals,mechanical keyboard,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10696,Video,webcam,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10697,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10698,Peripherals,gaming mouse,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10699,Audio,wireless earbuds,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10700,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10701,Peripherals,mechanical keyboard,5,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10702,Audio,bluetooth speaker,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10703,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10704,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10705,Office,laptop stand,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10706,Wearables,smart watch,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10707,Peripherals,mechanical keyboard,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10708,Peripherals,mechanical keyboard,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10709,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10710,Peripherals,mechanical keyboard,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10711,Peripherals,mechanical keyboard,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10712,Audio,wireless earbuds,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10713,Wearables,smart watch,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10714,Peripherals,gaming mouse,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10715,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10716,Peripherals,mechanical keyboard,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10717,Peripherals,mechanical keyboard,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10718,Audio,wireless earbuds,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10719,Peripherals,gaming mouse,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10720,Power,portable charger,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10721,Peripherals,gaming mouse,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10722,Power,portable charger,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10723,Wearables,smart watch,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10724,Wearables,smart watch,5,Absolutely love this smart watch! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10725,Audio,wireless earbuds,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10726,Audio,wireless earbuds,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10727,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10728,Audio,wireless earbuds,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10729,Wearables,smart watch,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10730,Audio,wireless earbuds,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10731,Video,webcam,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10732,Wearables,smart watch,3,"The smart watch is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10733,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10734,Audio,bluetooth speaker,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10735,Power,portable charger,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10736,Wearables,smart watch,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10737,Power,portable charger,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10738,Peripherals,gaming mouse,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10739,Power,portable charger,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10740,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10741,Wearables,smart watch,1,Terrible experience with this smart watch. Stopped working after just two weeks of normal use.,Negative
+REV-10742,Audio,wireless earbuds,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10743,Audio,wireless earbuds,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10744,Peripherals,mechanical keyboard,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10745,Office,laptop stand,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10746,Wearables,smart watch,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10747,Peripherals,mechanical keyboard,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10748,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10749,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10750,Peripherals,gaming mouse,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10751,Office,laptop stand,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10752,Audio,wireless earbuds,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10753,Power,portable charger,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10754,Office,laptop stand,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10755,Video,webcam,2,Terrible experience with this webcam. Stopped working after just two weeks of normal use.,Negative
+REV-10756,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10757,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10758,Peripherals,mechanical keyboard,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10759,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10760,Audio,wireless earbuds,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10761,Video,webcam,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10762,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10763,Office,laptop stand,1,Terrible experience with this laptop stand. Stopped working after just two weeks of normal use.,Negative
+REV-10764,Peripherals,gaming mouse,3,"The gaming mouse is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10765,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10766,Peripherals,mechanical keyboard,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10767,Power,portable charger,4,Absolutely love this portable charger! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10768,Peripherals,mechanical keyboard,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10769,Wearables,smart watch,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10770,Power,portable charger,3,"The portable charger is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10771,Audio,bluetooth speaker,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10772,Office,laptop stand,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10773,Wearables,smart watch,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10774,Peripherals,gaming mouse,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10775,Power,portable charger,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10776,Peripherals,mechanical keyboard,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10777,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10778,Video,webcam,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10779,Peripherals,gaming mouse,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10780,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10781,Office,laptop stand,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10782,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10783,Power,portable charger,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10784,Video,webcam,4,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10785,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10786,Power,portable charger,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10787,Office,laptop stand,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10788,Peripherals,mechanical keyboard,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10789,Office,laptop stand,3,"The laptop stand is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10790,Peripherals,mechanical keyboard,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10791,Video,webcam,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10792,Power,portable charger,4,Absolutely love this portable charger! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10793,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10794,Office,laptop stand,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10795,Peripherals,mechanical keyboard,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10796,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10797,Peripherals,gaming mouse,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10798,Video,webcam,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10799,Office,laptop stand,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10800,Audio,bluetooth speaker,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10801,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10802,Audio,wireless earbuds,3,"The wireless earbuds is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10803,Wearables,smart watch,1,Terrible experience with this smart watch. Stopped working after just two weeks of normal use.,Negative
+REV-10804,Peripherals,gaming mouse,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10805,Video,webcam,1,Terrible experience with this webcam. Stopped working after just two weeks of normal use.,Negative
+REV-10806,Peripherals,mechanical keyboard,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10807,Video,webcam,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10808,Office,laptop stand,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10809,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10810,Peripherals,mechanical keyboard,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10811,Audio,wireless earbuds,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10812,Video,webcam,4,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10813,Video,webcam,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10814,Wearables,smart watch,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10815,Office,laptop stand,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10816,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10817,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10818,Peripherals,mechanical keyboard,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10819,Audio,bluetooth speaker,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10820,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10821,Power,portable charger,5,Absolutely love this portable charger! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10822,Audio,bluetooth speaker,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10823,Peripherals,gaming mouse,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10824,Office,laptop stand,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10825,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10826,Audio,bluetooth speaker,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10827,Audio,bluetooth speaker,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10828,Peripherals,mechanical keyboard,1,Terrible experience with this mechanical keyboard. Stopped working after just two weeks of normal use.,Negative
+REV-10829,Peripherals,gaming mouse,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10830,Peripherals,gaming mouse,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10831,Wearables,smart watch,3,"The smart watch is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10832,Peripherals,gaming mouse,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10833,Office,laptop stand,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10834,Audio,wireless earbuds,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10835,Audio,wireless earbuds,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10836,Wearables,smart watch,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10837,Video,webcam,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10838,Audio,wireless earbuds,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10839,Office,laptop stand,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10840,Audio,bluetooth speaker,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10841,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10842,Peripherals,mechanical keyboard,4,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10843,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10844,Peripherals,gaming mouse,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10845,Video,webcam,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10846,Peripherals,mechanical keyboard,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10847,Audio,wireless earbuds,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10848,Peripherals,mechanical keyboard,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10849,Peripherals,mechanical keyboard,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10850,Office,laptop stand,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10851,Office,laptop stand,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10852,Peripherals,mechanical keyboard,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-10853,Wearables,smart watch,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10854,Audio,bluetooth speaker,2,Terrible experience with this bluetooth speaker. Stopped working after just two weeks of normal use.,Negative
+REV-10855,Office,laptop stand,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10856,Office,laptop stand,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10857,Office,laptop stand,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10858,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10859,Video,webcam,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10860,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10861,Office,laptop stand,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10862,Video,webcam,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10863,Office,laptop stand,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10864,Audio,bluetooth speaker,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10865,Audio,bluetooth speaker,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10866,Video,webcam,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10867,Audio,wireless earbuds,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10868,Video,webcam,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10869,Video,webcam,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10870,Audio,bluetooth speaker,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10871,Peripherals,gaming mouse,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10872,Audio,bluetooth speaker,5,Absolutely love this bluetooth speaker! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10873,Peripherals,gaming mouse,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10874,Peripherals,mechanical keyboard,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10875,Audio,bluetooth speaker,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10876,Peripherals,mechanical keyboard,5,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10877,Wearables,smart watch,3,"The smart watch is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10878,Power,portable charger,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10879,Peripherals,gaming mouse,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10880,Audio,bluetooth speaker,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10881,Office,laptop stand,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10882,Peripherals,gaming mouse,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10883,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10884,Audio,wireless earbuds,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10885,Office,laptop stand,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10886,Peripherals,mechanical keyboard,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10887,Peripherals,mechanical keyboard,5,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10888,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10889,Office,laptop stand,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10890,Audio,bluetooth speaker,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10891,Peripherals,gaming mouse,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10892,Office,laptop stand,4,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10893,Audio,bluetooth speaker,5,Absolutely love this bluetooth speaker! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10894,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10895,Audio,bluetooth speaker,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10896,Peripherals,gaming mouse,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10897,Video,webcam,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10898,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10899,Peripherals,mechanical keyboard,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10900,Audio,wireless earbuds,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10901,Power,portable charger,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10902,Office,laptop stand,3,"The laptop stand is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10903,Audio,bluetooth speaker,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10904,Audio,bluetooth speaker,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10905,Audio,wireless earbuds,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10906,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10907,Video,webcam,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10908,Office,laptop stand,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10909,Audio,bluetooth speaker,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10910,Office,laptop stand,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10911,Audio,wireless earbuds,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10912,Video,webcam,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10913,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10914,Office,laptop stand,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-10915,Peripherals,gaming mouse,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10916,Peripherals,gaming mouse,4,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10917,Audio,bluetooth speaker,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10918,Office,laptop stand,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10919,Peripherals,gaming mouse,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10920,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10921,Peripherals,mechanical keyboard,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10922,Video,webcam,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10923,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10924,Audio,bluetooth speaker,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10925,Peripherals,gaming mouse,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10926,Peripherals,gaming mouse,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10927,Audio,wireless earbuds,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10928,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10929,Power,portable charger,1,Terrible experience with this portable charger. Stopped working after just two weeks of normal use.,Negative
+REV-10930,Peripherals,mechanical keyboard,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10931,Peripherals,mechanical keyboard,4,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10932,Audio,wireless earbuds,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10933,Wearables,smart watch,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10934,Video,webcam,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10935,Audio,wireless earbuds,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10936,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10937,Peripherals,gaming mouse,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10938,Office,laptop stand,3,"The laptop stand is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10939,Power,portable charger,1,Terrible experience with this portable charger. Stopped working after just two weeks of normal use.,Negative
+REV-10940,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10941,Office,laptop stand,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-10942,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10943,Power,portable charger,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10944,Power,portable charger,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10945,Peripherals,gaming mouse,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10946,Peripherals,mechanical keyboard,1,Terrible experience with this mechanical keyboard. Stopped working after just two weeks of normal use.,Negative
+REV-10947,Office,laptop stand,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10948,Audio,wireless earbuds,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10949,Wearables,smart watch,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10950,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10951,Peripherals,mechanical keyboard,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10952,Video,webcam,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10953,Peripherals,mechanical keyboard,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10954,Video,webcam,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10955,Audio,bluetooth speaker,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10956,Audio,bluetooth speaker,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10957,Peripherals,mechanical keyboard,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10958,Peripherals,gaming mouse,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10959,Power,portable charger,3,"The portable charger is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10960,Peripherals,mechanical keyboard,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10961,Peripherals,mechanical keyboard,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10962,Power,portable charger,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10963,Audio,bluetooth speaker,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10964,Wearables,smart watch,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10965,Audio,bluetooth speaker,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-10966,Peripherals,mechanical keyboard,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-10967,Power,portable charger,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10968,Peripherals,mechanical keyboard,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10969,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-10970,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10971,Peripherals,mechanical keyboard,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10972,Wearables,smart watch,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-10973,Peripherals,gaming mouse,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10974,Wearables,smart watch,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10975,Power,portable charger,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-10976,Peripherals,gaming mouse,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-10977,Audio,wireless earbuds,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10978,Wearables,smart watch,2,Terrible experience with this smart watch. Stopped working after just two weeks of normal use.,Negative
+REV-10979,Audio,bluetooth speaker,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10980,Power,portable charger,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10981,Office,laptop stand,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-10982,Power,portable charger,3,"The portable charger is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-10983,Peripherals,gaming mouse,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10984,Audio,wireless earbuds,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-10985,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10986,Office,laptop stand,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10987,Video,webcam,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10988,Video,webcam,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-10989,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10990,Power,portable charger,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-10991,Audio,wireless earbuds,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-10992,Peripherals,gaming mouse,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10993,Peripherals,mechanical keyboard,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-10994,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-10995,Office,laptop stand,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-10996,Wearables,smart watch,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-10997,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-10998,Audio,bluetooth speaker,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-10999,Audio,bluetooth speaker,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-11000,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11001,Office,laptop stand,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-11002,Video,webcam,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-11003,Wearables,smart watch,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-11004,Wearables,smart watch,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-11005,Peripherals,mechanical keyboard,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11006,Office,laptop stand,4,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11007,Office,laptop stand,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-11008,Audio,wireless earbuds,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11009,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11010,Audio,wireless earbuds,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-11011,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11012,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11013,Peripherals,mechanical keyboard,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11014,Peripherals,mechanical keyboard,1,Terrible experience with this mechanical keyboard. Stopped working after just two weeks of normal use.,Negative
+REV-11015,Audio,bluetooth speaker,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-11016,Office,laptop stand,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-11017,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11018,Audio,bluetooth speaker,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11019,Office,laptop stand,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11020,Office,laptop stand,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11021,Peripherals,gaming mouse,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-11022,Peripherals,mechanical keyboard,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-11023,Peripherals,mechanical keyboard,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11024,Office,laptop stand,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-11025,Peripherals,mechanical keyboard,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-11026,Peripherals,mechanical keyboard,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11027,Office,laptop stand,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11028,Audio,bluetooth speaker,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-11029,Power,portable charger,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11030,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11031,Peripherals,gaming mouse,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-11032,Video,webcam,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11033,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11034,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11035,Office,laptop stand,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-11036,Peripherals,mechanical keyboard,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11037,Peripherals,gaming mouse,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11038,Wearables,smart watch,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-11039,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11040,Office,laptop stand,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-11041,Power,portable charger,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-11042,Audio,wireless earbuds,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11043,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11044,Audio,wireless earbuds,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11045,Audio,wireless earbuds,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11046,Audio,wireless earbuds,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11047,Audio,wireless earbuds,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-11048,Peripherals,mechanical keyboard,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-11049,Power,portable charger,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11050,Audio,wireless earbuds,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11051,Video,webcam,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11052,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11053,Peripherals,mechanical keyboard,5,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11054,Peripherals,mechanical keyboard,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-11055,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11056,Peripherals,gaming mouse,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11057,Wearables,smart watch,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11058,Power,portable charger,2,Terrible experience with this portable charger. Stopped working after just two weeks of normal use.,Negative
+REV-11059,Audio,bluetooth speaker,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11060,Office,laptop stand,3,"The laptop stand is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-11061,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11062,Office,laptop stand,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11063,Power,portable charger,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-11064,Peripherals,mechanical keyboard,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11065,Peripherals,mechanical keyboard,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-11066,Peripherals,gaming mouse,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11067,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11068,Office,laptop stand,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-11069,Wearables,smart watch,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11070,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11071,Office,laptop stand,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11072,Audio,wireless earbuds,1,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-11073,Office,laptop stand,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11074,Office,laptop stand,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-11075,Wearables,smart watch,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11076,Audio,bluetooth speaker,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-11077,Video,webcam,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-11078,Peripherals,mechanical keyboard,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11079,Audio,wireless earbuds,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-11080,Wearables,smart watch,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11081,Peripherals,mechanical keyboard,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11082,Peripherals,mechanical keyboard,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11083,Peripherals,gaming mouse,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11084,Office,laptop stand,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11085,Video,webcam,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-11086,Office,laptop stand,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11087,Audio,wireless earbuds,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11088,Office,laptop stand,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-11089,Audio,bluetooth speaker,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11090,Office,laptop stand,3,"The laptop stand is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-11091,Power,portable charger,3,"The portable charger is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-11092,Office,laptop stand,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11093,Peripherals,mechanical keyboard,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-11094,Audio,bluetooth speaker,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-11095,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11096,Video,webcam,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-11097,Audio,wireless earbuds,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11098,Audio,wireless earbuds,4,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11099,Audio,wireless earbuds,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-11100,Video,webcam,1,Terrible experience with this webcam. Stopped working after just two weeks of normal use.,Negative
+REV-11101,Office,laptop stand,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11102,Audio,bluetooth speaker,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-11103,Peripherals,mechanical keyboard,5,Absolutely love this mechanical keyboard! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11104,Office,laptop stand,3,"The laptop stand is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-11105,Office,laptop stand,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-11106,Wearables,smart watch,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-11107,Audio,wireless earbuds,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-11108,Peripherals,gaming mouse,4,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11109,Audio,bluetooth speaker,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11110,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11111,Office,laptop stand,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-11112,Power,portable charger,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11113,Office,laptop stand,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11114,Video,webcam,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11115,Power,portable charger,2,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-11116,Audio,wireless earbuds,2,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-11117,Peripherals,gaming mouse,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11118,Audio,bluetooth speaker,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-11119,Audio,bluetooth speaker,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11120,Peripherals,mechanical keyboard,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-11121,Office,laptop stand,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-11122,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11123,Audio,bluetooth speaker,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11124,Office,laptop stand,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11125,Audio,wireless earbuds,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-11126,Audio,wireless earbuds,4,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11127,Audio,bluetooth speaker,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11128,Wearables,smart watch,2,Waste of money. Arrived defective with scratches on the screen. Utterly frustrating experience.,Negative
+REV-11129,Office,laptop stand,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11130,Peripherals,mechanical keyboard,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11131,Audio,wireless earbuds,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11132,Power,portable charger,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-11133,Peripherals,gaming mouse,1,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-11134,Audio,wireless earbuds,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11135,Audio,wireless earbuds,4,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11136,Audio,bluetooth speaker,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11137,Audio,bluetooth speaker,3,"The bluetooth speaker is okay, decent for everyday usage but nothing extraordinary.",Neutral
+REV-11138,Peripherals,mechanical keyboard,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-11139,Peripherals,gaming mouse,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-11140,Peripherals,gaming mouse,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-11141,Power,portable charger,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-11142,Power,portable charger,5,Absolutely love this portable charger! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11143,Audio,bluetooth speaker,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-11144,Peripherals,mechanical keyboard,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11145,Video,webcam,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11146,Office,laptop stand,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11147,Office,laptop stand,4,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11148,Office,laptop stand,4,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11149,Peripherals,gaming mouse,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11150,Power,portable charger,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-11151,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11152,Office,laptop stand,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-11153,Wearables,smart watch,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11154,Audio,bluetooth speaker,1,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-11155,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11156,Audio,bluetooth speaker,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11157,Audio,wireless earbuds,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11158,Office,laptop stand,5,Absolutely love this laptop stand! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11159,Audio,wireless earbuds,5,Absolutely love this wireless earbuds! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11160,Office,laptop stand,5,Works perfectly right out of the box. Highly reliable and definitely worth the premium price tag.,Positive
+REV-11161,Office,laptop stand,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-11162,Power,portable charger,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11163,Power,portable charger,2,Terrible experience with this portable charger. Stopped working after just two weeks of normal use.,Negative
+REV-11164,Audio,wireless earbuds,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11165,Peripherals,gaming mouse,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11166,Audio,wireless earbuds,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-11167,Video,webcam,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11168,Power,portable charger,4,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11169,Video,webcam,5,Absolutely love this webcam! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11170,Peripherals,gaming mouse,5,Absolutely love this gaming mouse! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11171,Wearables,smart watch,5,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11172,Peripherals,mechanical keyboard,1,Do not buy! The software crashes repeatedly and customer service refused to honor the warranty.,Negative
+REV-11173,Office,laptop stand,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11174,Power,portable charger,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11175,Peripherals,mechanical keyboard,3,"Average product. Does what it says on the box, but feels a bit lightweight and basic.",Neutral
+REV-11176,Peripherals,gaming mouse,3,Fair performance for the price point. Packaging was standard and delivery took a week.,Neutral
+REV-11177,Video,webcam,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11178,Audio,wireless earbuds,4,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11179,Power,portable charger,5,Absolutely love this portable charger! The build quality is phenomenal and battery life exceeded my expectations.,Positive
+REV-11180,Audio,wireless earbuds,3,"It works fine, neither particularly impressed nor disappointed. Meets standard expectations.",Neutral
+REV-11181,Power,portable charger,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-11182,Peripherals,mechanical keyboard,4,Superb value for money. Very durable materials and intuitive controls. Would definitely buy again.,Positive
+REV-11183,Peripherals,mechanical keyboard,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-11184,Peripherals,mechanical keyboard,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11185,Wearables,smart watch,1,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
+REV-11186,Audio,bluetooth speaker,3,"Acceptable quality, though there is certainly room for minor improvements in the mobile app.",Neutral
+REV-11187,Wearables,smart watch,3,A reasonable alternative to brand name options. Average battery life and simple features.,Neutral
+REV-11188,Video,webcam,5,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11189,Office,laptop stand,5,Brilliant engineering! Very satisfied with the speed and reliability. A game changer in my routine.,Positive
+REV-11190,Audio,wireless earbuds,5,Exceeded expectations! Customer support was responsive and the features work seamlessly.,Positive
+REV-11191,Video,webcam,2,Very poor performance. Does not match the product description at all. Returning immediately.,Negative
+REV-11192,Power,portable charger,4,"Best purchase I have made this year. High performance, sleek design, and setup was effortless.",Positive
+REV-11193,Office,laptop stand,2,"Extremely disappointed. Poor build quality, flimsy plastic, and battery drains in two hours.",Negative
+REV-11194,Audio,wireless earbuds,5,"Fantastic experience! Crystal clear sound quality, comfortable fit, and premium feel.",Positive
+REV-11195,Office,laptop stand,1,Horrible sound distortion and constant connection drops. Zero stars if I could.,Negative
+REV-11196,Video,webcam,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11197,Video,webcam,5,Five stars! Incredibly fast shipping and the item works like a dream. Highly recommend to everyone.,Positive
+REV-11198,Wearables,smart watch,3,"Neutral feeling about this purchase. Build is fine, instructions could be clearer.",Neutral
+REV-11199,Peripherals,gaming mouse,2,Cheap materials and slow response. Broke down on day three. Very upset with this purchase.,Negative
